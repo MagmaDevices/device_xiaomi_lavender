@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_lavender.mk
+    $(LOCAL_DIR)/magma_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosip_lavender-user \
-    aosip_lavender-userdebug \
-    aosip_lavender-eng
+    magma_lavender-user \
+    magma_lavender-userdebug \
+    magma_lavender-eng
